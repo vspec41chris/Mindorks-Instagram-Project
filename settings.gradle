@@ -1,0 +1,2 @@
+rootProject.name='Mindorks Instagram Project'
+include ':app'
